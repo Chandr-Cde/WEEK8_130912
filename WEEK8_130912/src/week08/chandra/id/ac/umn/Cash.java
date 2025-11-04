@@ -1,6 +1,6 @@
 package week08.chandra.id.ac.umn;
 
-public class Cash extends Payment{
+public class Cash extends PaymentTugas{
 	public Cash(Item item) {
 		super(item);
 	}
